@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "majsq-agent"
+version = "0.1.0"
+description = "Autonomous Telegram recommendation agent for Festro"
+requires-python = ">=3.12"
+dependencies = [
+    "Django>=5.0,<6.0",
+    "httpx>=0.27,<1.0",
+    "openai>=1.0,<2.0",
+]
+
+[tool.setuptools]
+packages = ["config", "majsq_bot", "majsq_bot.migrations", "majsq_bot.services"]
+
+[tool.django-stubs]
+django_settings_module = "config.settings"
+

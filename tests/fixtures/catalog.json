@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "lat": 45.5017,
+      "lng": -73.5673,
+      "title": "Jazz au coucher du soleil",
+      "venue": "Place des Arts",
+      "time": "ce soir, 20 h",
+      "url": "https://festro.com/events/jazz-sunset",
+      "tags": ["music", "calm", "indoor"]
+    },
+    {
+      "lat": 45.5088,
+      "lng": -73.5541,
+      "title": "Marché de nuit du Vieux-Port",
+      "venue": "Vieux-Port de Montréal",
+      "time": "vendredi, 18 h",
+      "url": "https://festro.com/events/night-market",
+      "tags": ["food", "outdoors", "social"]
+    },
+    {
+      "lat": 45.5155,
+      "lng": -73.5566,
+      "title": "Exposition lumière et matière",
+      "venue": "MAC Montréal",
+      "time": "vendredi, 19 h",
+      "url": "https://festro.com/events/light-matter",
+      "tags": ["art", "calm", "indoor"]
+    },
+    {
+      "lat": 45.5268,
+      "lng": -73.5959,
+      "title": "Danse libre au parc",
+      "venue": "Parc La Fontaine",
+      "time": "ce soir, 19 h 30",
+      "url": "https://festro.com/events/free-dance",
+      "tags": ["music", "outdoors", "social"]
+    }
+  ]
+}
+
